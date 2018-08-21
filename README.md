@@ -2,8 +2,14 @@
 
 This repository contains assignments for the Kadenze Course: Creative Applications of Deep Learning with TensorFlow I
 
-Session 1: Introduction to TensorFlow  
-- Teaches you how to preprocess your data and apply convolution to different kernels  
+Session 1: Introduction to Tensorflow  
+- Teaches how to preprocess your data and apply convolution to different kernels  
+- Dataset used for this session was from Caltech 101  
+
+Session 2: Training a Network w/ Tensorflow
+- Teaches how to create a deep neural network  
+- Discusses the different parameters in Tensorflow (ex. Optimizations, Cost Functions, Activation Functions, etc.)  
+- Apply creative thinking in using neural networks in images
 - Dataset used for this session was from Caltech 101  
 
  ## References
