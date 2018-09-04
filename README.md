@@ -15,7 +15,12 @@ Session 2: Training a Network w/ Tensorflow
 Session 3: Unsupervised and Supervised Learning
 - Teaches how to build an autoencoder
 - Discusses how to create an audio classification task with softmax and one-hot encoding
-- Datasets used for this session: Caltech 101 and Stanford Dogs
+- Datasets used for this session: Caltech 101 and Stanford Dogs 
+
+Session 4: Visualizing Representations 
+- Teaches how to build a style transfer model
+- Enables visualization of gradients
+- Apply Deep Dream to chosen images 
 
  ## References
  [1] <a href="https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info">Creative Applications of Deep Learning w/ TensorFlow</a>.  
