@@ -22,6 +22,11 @@ Session 4: Visualizing Representations
 - Enables visualization of gradients
 - Apply Deep Dream to chosen images 
 
+Session 5: Generative Adversarial Networks and Recurrent Neural Networks 
+- Teaches how to use GANs for image processing and RNNs for text processing 
+- Discusses how to apply VAE to GAN 
+- Shows how to use pre-trained models 
+
  ## References
  [1] <a href="https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info">Creative Applications of Deep Learning w/ TensorFlow</a>.  
  [2] L. Fei-Fei, R. Fergus and P. Perona. Learning generative visual models from few training examples: an incremental Bayesian approach tested on 101 object categories. IEEE. CVPR 2004, Workshop on Generative-Model Based Vision. 2004.  
