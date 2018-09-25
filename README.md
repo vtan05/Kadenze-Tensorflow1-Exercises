@@ -27,7 +27,12 @@ Session 5: Generative Adversarial Networks and Recurrent Neural Networks
 - Discusses how to apply VAE to GAN 
 - Shows how to use pre-trained models 
 
+Project  
+- Audio Style Transfer  
+- Image Style Transfer using VGG Face Model  
+
  ## References
  [1] <a href="https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info">Creative Applications of Deep Learning w/ TensorFlow</a>.  
  [2] L. Fei-Fei, R. Fergus and P. Perona. Learning generative visual models from few training examples: an incremental Bayesian approach tested on 101 object categories. IEEE. CVPR 2004, Workshop on Generative-Model Based Vision. 2004.  
  [3] Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.  
+ [4] D. Ulyanov and V. Lebedev. (2016, December 13). Audio texture synthesis and style transfer. [Blog post]. Retrieved from https://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/  
