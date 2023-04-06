@@ -1,6 +1,6 @@
 # Creative Applications of Deep Learning with TensorFlow
 
-This repository contains assignments for the Kadenze Course: Creative Applications of Deep Learning with TensorFlow I
+This repository contains assignments for the Kadenze Course: Creative Applications of Deep Learning with TensorFlow 
 
 Session 1: Introduction to Tensorflow  
 - Teaches how to preprocess your data and apply convolution to different kernels  
